@@ -1,7 +1,7 @@
 [
     {
         "name": "10 Minutes Till Dawn",
-        "image": "https://cdn.jsdelivr.net/gh/SethMortenson/better-than-clever/10-minutes-till-dawn.png",
+        "imageURL": "cdn.jsdelivr.net/gh/SethMortenson/better-than-clever/10-minutes-till-dawn.png",
         "url": "https://sites.google.com/apps.nsd.org/wsm/textbook/page-1",
         "genres": [
             "Action",
